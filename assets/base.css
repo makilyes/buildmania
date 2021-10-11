@@ -1955,7 +1955,7 @@ input[type='checkbox'] {
 }
 
 .header__icon {
-  color: rgb(var(--color-foreground));
+  color: white;
 }
 
 .header__icon span {
@@ -2178,11 +2178,12 @@ details[open] > .header__icon--menu .icon-hamburger {
 .header__menu-item {
   padding: 1.2rem;
   text-decoration: none;
-  color: rgba(var(--color-foreground), 0.75);
+  color: white;
 }
 
 .header__menu-item:hover {
-  color: rgb(var(--color-foreground));
+  color: #FB784E;
+  font-weight: bold;
 }
 
 .header__menu-item span {
@@ -2196,7 +2197,8 @@ details[open] > .header__icon--menu .icon-hamburger {
 
 .header__active-menu-item {
   transition: text-decoration-thickness var(--duration-short) ease;
-  color: rgb(var(--color-foreground));
+  color: white;
+  font-weight: bold;
   text-decoration: underline;
   text-underline-offset: 0.3rem;
 }
@@ -2348,11 +2350,12 @@ details-disclosure > details {
   .h3__description {
       color: #03264B;
   margin: 0;
-    padding-top: 15px
+    padding-top: 30px
   }
   
   .image__description {
   margin-bottom: -7px;
+    box-shadow: 0 3px 20px -3px #606060;
   }
   
   .bloc__description {
@@ -2365,5 +2368,49 @@ details-disclosure > details {
   
   .video__homepage {
   width: 100%;
-  
+    height: 100vh;
   }
+
+.footer {
+  background-color: #FB784E;
+}
+
+.footer-block .footer-block__details-content .list-menu__item--link {
+  color: white;
+}
+
+.footer-block__heading {
+  color: white;
+}
+
+#NewsletterForm--footer {
+  color: white;
+  border: .1rem solid white;
+}
+
+.field__label {
+  color: white;
+}
+
+.newsletter-form__button .icon {
+  color: white;
+}
+
+#FooterCountryLabel{
+  color: white;
+}
+
+.localization-form__select {
+  color: white !important;
+  border: .1rem solid white !important;
+}
+
+.addToCart-button {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.faq-section {
+  width: 90%;
+  margin: 0 auto;
+}

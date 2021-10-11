@@ -1,0 +1,21 @@
+{{ 'faq-section.css' | asset_url | stylesheet_tag }}
+
+<button class="accordion">Plus de détails ...</button>
+<div class="panel">
+    <p>Lorem ipsum...</p>
+</div>
+
+
+{% schema %}
+{
+"name": "faq",
+"tag": "section",
+"class": "faq-section spaced-section",
+"settings": [],
+"presets": [
+{
+"name": "faq"
+}
+]
+}
+{% endschema %}
