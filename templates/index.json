@@ -254,6 +254,11 @@
         "enable_video_looping": false
       }
     },
+    "163397197156b358f9": {
+      "type": "badge-section",
+      "settings": {
+      }
+    },
     "16339000173cac12ad": {
       "type": "newsletter",
       "blocks": {
@@ -295,6 +300,7 @@
     "163389877012ba5780",
     "163390421949d7e764",
     "163395562234f72bbb",
+    "163397197156b358f9",
     "16339000173cac12ad"
   ]
 }
