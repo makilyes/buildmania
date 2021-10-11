@@ -159,7 +159,7 @@
         "163389877012ba5780-1": {
           "type": "text",
           "settings": {
-            "text": "<p><br\/>Pour construire son imaginaire avec BUILD MANIA, il suffit simplement de clipser! Universel et accessible à tous, le jeu encourage le joueur à explorer et à dépasser ses propres limites. Construire avec BUILD MANIA stimule la créativité, l'ingéniosité, la logique, et la persévérance. Dès 4 ans, en solo ou à plusieurs, jouez sans règles et sans limites !<br\/><br\/><\/p>"
+            "text": "<p>Pour construire son imaginaire avec BUILD MANIA, il suffit simplement de clipser! Universel et accessible à tous, le jeu encourage le joueur à explorer et à dépasser ses propres limites. Construire avec BUILD MANIA stimule la créativité, l'ingéniosité, la logique, et la persévérance. Dès 4 ans, en solo ou à plusieurs, jouez sans règles et sans limites !<\/p>"
           }
         },
         "163389877012ba5780-2": {
@@ -258,37 +258,6 @@
       "type": "badge-section",
       "settings": {
       }
-    },
-    "16339000173cac12ad": {
-      "type": "newsletter",
-      "blocks": {
-        "16339000173cac12ad-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Subscribe to our emails"
-          }
-        },
-        "16339000173cac12ad-1": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
-          }
-        },
-        "16339000173cac12ad-2": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "16339000173cac12ad-0",
-        "16339000173cac12ad-1",
-        "16339000173cac12ad-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
-      }
     }
   },
   "order": [
@@ -300,7 +269,6 @@
     "163389877012ba5780",
     "163390421949d7e764",
     "163395562234f72bbb",
-    "163397197156b358f9",
-    "16339000173cac12ad"
+    "163397197156b358f9"
   ]
 }
