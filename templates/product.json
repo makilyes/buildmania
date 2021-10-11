@@ -85,12 +85,6 @@
         "show_rating": false
       }
     },
-    "16339557437ed850c9": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": ""
-      }
-    },
     "16339559417a670691": {
       "type": "faq",
       "settings": {
@@ -100,7 +94,6 @@
   "order": [
     "main",
     "product-recommendations",
-    "16339557437ed850c9",
     "16339559417a670691"
   ]
 }
