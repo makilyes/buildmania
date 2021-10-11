@@ -14,7 +14,13 @@
     margin-top: 20px;
 }
 
+.block-title {
+    color: white;
+}
+
 .block-text {
+    color: white;
+    font-weight: bold;
     margin-top: 0;
     margin-bottom: 0;
 }
