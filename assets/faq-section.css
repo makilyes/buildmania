@@ -71,3 +71,10 @@
 .price__badge-sold-out {
     color: red !important;
 }
+
+@media only screen and (max-width: 649px) {
+    .details__wrapper {
+        flex-direction: column;
+        align-items: center;
+    }
+}
