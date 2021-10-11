@@ -1,0 +1,300 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "",
+            "heading_size": "medium"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MAK05575.jpg",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "flex-end",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Build Mania",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>L'imagination est l'outil d'un enfant pour réaliser ses rêves, l'univers est son terrain de jeu.<\/p><p><br\/>Des petits bâtisseurs aux constructeurs de l’extrême : les possibilités sont infinies…<\/p>"
+          }
+        },
+        "button": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "1631470612e7a86920": {
+      "type": "collage",
+      "blocks": {
+        "1631470612e7a86920-1": {
+          "type": "product",
+          "settings": {
+            "product": "buildmania",
+            "second_image": false,
+            "image_padding": false,
+            "secondary_background": false
+          }
+        },
+        "1631470612e7a86920-2": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "1631470612e7a86920-1",
+        "1631470612e7a86920-2"
+      ],
+      "settings": {
+        "heading": "",
+        "desktop_layout": "right",
+        "mobile_layout": "collage"
+      }
+    },
+    "16315524948199b120": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": ""
+      }
+    },
+    "163389868590fa2ccb": {
+      "type": "image-with-text",
+      "blocks": {
+        "163389868590fa2ccb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Système avec CLIPS™"
+          }
+        },
+        "163389868590fa2ccb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Build Mania a developpe une nouvelle technologie dassemblage sur son kit de construction pour enfant<\/p><p>En effet son systeme innovant avec CLIPS™, permet d'avoir une structure solide et fiable.<\/p><p>Cette nouveaute, qui fera <br\/>pétiller la créativité des petits et des grands !<\/p>"
+          }
+        },
+        "163389868590fa2ccb-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "163389868590fa2ccb-0",
+        "163389868590fa2ccb-1",
+        "163389868590fa2ccb-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "163389877012ba5780": {
+      "type": "image-with-text",
+      "blocks": {
+        "163389877012ba5780-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Un jeu simple et éducatif"
+          }
+        },
+        "163389877012ba5780-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><br\/>Pour construire son imaginaire avec BUILD MANIA, il suffit simplement de clipser! Universel et accessible à tous, le jeu encourage le joueur à explorer et à dépasser ses propres limites. Construire avec BUILD MANIA stimule la créativité, l'ingéniosité, la logique, et la persévérance. Dès 4 ans, en solo ou à plusieurs, jouez sans règles et sans limites !<br\/><br\/><\/p>"
+          }
+        },
+        "163389877012ba5780-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "163389877012ba5780-0",
+        "163389877012ba5780-1",
+        "163389877012ba5780-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "163390421949d7e764": {
+      "type": "video",
+      "settings": {
+      }
+    },
+    "163395562234f72bbb": {
+      "type": "featured-product",
+      "blocks": {
+        "163395562234f72bbb-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "163395562234f72bbb-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "163395562234f72bbb-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "163395562234f72bbb-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "163395562234f72bbb-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "163395562234f72bbb-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "163395562234f72bbb-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "163395562234f72bbb-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "163395562234f72bbb-0",
+        "163395562234f72bbb-1",
+        "163395562234f72bbb-2",
+        "163395562234f72bbb-3",
+        "163395562234f72bbb-4",
+        "163395562234f72bbb-5",
+        "163395562234f72bbb-6",
+        "163395562234f72bbb-7"
+      ],
+      "settings": {
+        "product": "buildmania",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
+    },
+    "16339000173cac12ad": {
+      "type": "newsletter",
+      "blocks": {
+        "16339000173cac12ad-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails"
+          }
+        },
+        "16339000173cac12ad-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "16339000173cac12ad-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "16339000173cac12ad-0",
+        "16339000173cac12ad-1",
+        "16339000173cac12ad-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "rich_text",
+    "1631470612e7a86920",
+    "16315524948199b120",
+    "163389868590fa2ccb",
+    "163389877012ba5780",
+    "163390421949d7e764",
+    "163395562234f72bbb",
+    "16339000173cac12ad"
+  ]
+}

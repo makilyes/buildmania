@@ -1,0 +1,73 @@
+.accordion {
+    cursor: pointer;
+    margin-top: 0;
+    margin-bottom: 20px;
+    padding: 18px;
+    width: 100%;
+    text-align: center;
+    outline: none;
+    transition: 0.4s;
+    border: 3px solid #fb784e;
+    font-weight: bold;
+    background-color: white;
+}
+
+.active, .accordion:hover {
+    background-color: #fb784e;
+    color: white;
+}
+
+.panel {
+    padding: 0 18px;
+    background-color: white;
+    display: none;
+    justify-content: space-between;
+    align-items: flex-start;
+    overflow: hidden;
+    margin-top: 24px;
+    margin-bottom: 20px;
+}
+
+.detail-1 {
+    width: 33%;
+    text-align: center;
+}
+
+.detail-2 {
+    width: 33%;
+    text-align: center;
+}
+
+.detail-3 {
+    width: 33%;
+    text-align: center;
+}
+
+.faq__description {
+    font-size: 19px;
+    font-weight: bold;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.faq__description-title {
+    font-size: 12px;
+    margin-top: 0;
+}
+
+.detail-4 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.img-sizeBuildMania {
+
+}
+
+.details__wrapper {
+    display: flex;
+}
+
+.price__badge-sold-out {
+    color: red !important;
+}

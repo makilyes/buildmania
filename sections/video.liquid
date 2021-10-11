@@ -1,0 +1,23 @@
+{{ 'video-section.css' | asset_url | stylesheet_tag }}
+{{ 'component-deferred-media.css' | asset_url | stylesheet_tag }}
+
+<div class="video-section{% unless section.settings.full_width %} page-width{% endunless %}">
+    <video autoplay muted loop playsinline class="video__homepage">
+        <source src="https://cdn.shopify.com/s/files/1/0600/7626/1573/files/shopify_tiktok.mp4?v=1633904150"
+                type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
+
+{% schema %}
+{
+  "name": "video",
+  "tag": "section",
+  "settings": [],
+  "presets": [
+    {
+      "name": "faq"
+    }
+  ]
+}
+  {% endschema %}
