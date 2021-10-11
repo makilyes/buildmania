@@ -184,10 +184,74 @@
     "163390421949d7e764": {
       "type": "video",
       "settings": {
-        "heading": "Video",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false
+      }
+    },
+    "163395562234f72bbb": {
+      "type": "featured-product",
+      "blocks": {
+        "163395562234f72bbb-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "163395562234f72bbb-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "163395562234f72bbb-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "163395562234f72bbb-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "163395562234f72bbb-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "163395562234f72bbb-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "163395562234f72bbb-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "163395562234f72bbb-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "163395562234f72bbb-0",
+        "163395562234f72bbb-1",
+        "163395562234f72bbb-2",
+        "163395562234f72bbb-3",
+        "163395562234f72bbb-4",
+        "163395562234f72bbb-5",
+        "163395562234f72bbb-6",
+        "163395562234f72bbb-7"
+      ],
+      "settings": {
+        "product": "buildmania",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false
       }
     },
     "16339000173cac12ad": {
@@ -230,6 +294,7 @@
     "163389868590fa2ccb",
     "163389877012ba5780",
     "163390421949d7e764",
+    "163395562234f72bbb",
     "16339000173cac12ad"
   ]
 }
