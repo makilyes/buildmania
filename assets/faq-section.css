@@ -1,7 +1,7 @@
 .accordion {
     cursor: pointer;
     margin-top: 0;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     padding: 18px;
     width: 100%;
     text-align: center;
@@ -24,7 +24,7 @@
     justify-content: space-between;
     align-items: flex-start;
     overflow: hidden;
-    margin-top: 24px;
+    margin-top: 5px;
     margin-bottom: 40px;
 }
 
