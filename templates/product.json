@@ -89,11 +89,17 @@
       "type": "faq",
       "settings": {
       }
+    },
+    "1633969915f935ca57": {
+      "type": "badge-section",
+      "settings": {
+      }
     }
   },
   "order": [
     "main",
     "product-recommendations",
-    "16339559417a670691"
+    "16339559417a670691",
+    "1633969915f935ca57"
   ]
 }
