@@ -142,6 +142,7 @@
         "163389868590fa2ccb-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/clips.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
