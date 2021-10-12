@@ -107,6 +107,10 @@
 
     {{ 'base.css' | asset_url | stylesheet_tag }}
 
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+
     {%- unless settings.type_body_font.system? -%}
       <link rel="preload" as="font" href="{{ settings.type_body_font | font_url }}" type="font/woff2" crossorigin>
     {%- endunless -%}
@@ -119,6 +123,8 @@
     {%- endif -%}
 
     <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');</script>
+
+
   </head>
 
   <body class="gradient">
