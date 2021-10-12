@@ -596,10 +596,10 @@ a.product__text {
   }
 }
 
-.product__media-list .deferred-media,
-.product__media-list .product__modal-opener {
-  border: 0.1rem solid rgba(var(--color-foreground), 0.04);
-}
+/*.product__media-list .deferred-media,*/
+/*.product__media-list .product__modal-opener {*/
+/*  border: 0.1rem solid rgba(var(--color-foreground), 0.04);*/
+/*}*/
 
 .product-media-modal__content > * {
   display: block;
