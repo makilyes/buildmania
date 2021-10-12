@@ -24,6 +24,7 @@
 .slider-img {
     height: 55vh;
     width: 80vw;
+    border-radius: 10px;
 }
 
 .swiper-text {
