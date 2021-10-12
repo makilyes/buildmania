@@ -24,11 +24,7 @@
                 </div>
             </div>
             <div class="swiper-slide img-contain">
-                {% if block.settings.imagee %}
                     <img src="{{ block.settings.imagee.src | img_url:'650x'}}" class="slider-img">
-                {% else %}
-                    {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
-                {% endif %}
             </div>
         {% endfor %}
     </div>
@@ -39,19 +35,8 @@
 
 <script>
     var swiper = new Swiper(".mySwiper", {
-        slidesPerView: 1,
-        spaceBetween: 10,
-        freeMode: true,
-        loop: true,
-        // loopFillGroupWithBlank: true,
-        pagination: {
-            el: ".swiper-pagination",
-            clickable: true,
-        },
-        navigation: {
-            nextEl: ".swiper-button-next",
-            prevEl: ".swiper-button-prev",
-        },
+        effect: "cards",
+        grabCursor: true,
 
     });
 </script>
