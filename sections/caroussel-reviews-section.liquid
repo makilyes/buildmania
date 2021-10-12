@@ -3,6 +3,7 @@
 
 <div class="mySwiper" style="background-color : {{ section.settings.backgroundcolor}};">
     <h2 class="review-title" style="color : {{ section.settings.titlecolor }};">{{ section.settings.titlereview }}</h2>
+    <img class="trust-badge" src="https://cdn.shopify.com/s/files/1/0600/7626/1573/files/trustpilot.png?v=1634069826" alt="trust-logo">
     <div class="swiper-wrapper">
 
         {% for block in section.blocks %}
@@ -38,11 +39,11 @@
 
 <script>
     var swiper = new Swiper(".mySwiper", {
-        slidesPerView: 3,
+        slidesPerView: 1,
         spaceBetween: 10,
         freeMode: true,
         loop: true,
-        loopFillGroupWithBlank: true,
+        // loopFillGroupWithBlank: true,
         pagination: {
             el: ".swiper-pagination",
             clickable: true,
@@ -51,24 +52,7 @@
             nextEl: ".swiper-button-next",
             prevEl: ".swiper-button-prev",
         },
-        breakpoints: {
-            "@0.00": {
-                slidesPerView: 1,
-                spaceBetween: 10,
-            },
-            "@0.75": {
-                slidesPerView: 2,
-                spaceBetween: 20,
-            },
-            "@1.00": {
-                slidesPerView: 3,
-                spaceBetween: 40,
-            },
-            "@1.50": {
-                slidesPerView: 4,
-                spaceBetween: 50,
-            },
-        },
+
     });
 </script>
 

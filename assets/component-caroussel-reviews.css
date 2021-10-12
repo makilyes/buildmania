@@ -1,7 +1,8 @@
 .review-title {
     text-align: center;
+    padding: 0px 15px;
     font-weight: bold;
-    margin: 40px 0px;
+    margin: 40px 0px 25px;
 }
 
 .mySwiper {
@@ -62,4 +63,9 @@
         width: 250px !important;
     }
 
+}
+
+.trust-badge {
+    width: 35%;
+    margin-left: 35%;
 }
