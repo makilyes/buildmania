@@ -232,9 +232,9 @@
           "type": "review",
           "settings": {
             "imagee": "shopify:\/\/shop_images\/16.jpg",
-            "name": "John Doe",
-            "title": "Très bon produit",
-            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id velit maximus, porttitor enim eget, aliquet libero. In eu porttitor est, in sodales dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;<\/p>"
+            "name": "Carole",
+            "title": "Sympa et éducatif",
+            "content": "<p>Cet article a dépassé mes attentes car les billes de connexion sont très résistantes et les tiges en plastique sont également épaisses. Ce système de clips permet des attaches tellement solides. Mon enfant de 5 ans s'est bien amusé à utiliser son imagination pour construire un « building\". L'article peut nécessiter l'aide des parents car la position du connecteur a un impact sur la direction de la construction si vous souhaitez construire en diagonale<br\/>J'ai aussi passé un bon moment à construire. Du plaisir pour toute la famille. Maintenant, je veux acheter un deuxième ensemble pour pouvoir en construire un plus gros !<br\/><\/p>"
           }
         }
       },
