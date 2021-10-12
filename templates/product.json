@@ -90,11 +90,6 @@
       "settings": {
       }
     },
-    "1633969915f935ca57": {
-      "type": "badge-section",
-      "settings": {
-      }
-    },
     "16340335265dc3cd71": {
       "type": "caroussel-reviews-section",
       "blocks": {
@@ -266,13 +261,18 @@
         "titlecolor": "#000000",
         "backgroundcolor": "#ffffff"
       }
+    },
+    "1633969915f935ca57": {
+      "type": "badge-section",
+      "settings": {
+      }
     }
   },
   "order": [
     "main",
     "product-recommendations",
     "16339559417a670691",
-    "1633969915f935ca57",
-    "16340335265dc3cd71"
+    "16340335265dc3cd71",
+    "1633969915f935ca57"
   ]
 }
