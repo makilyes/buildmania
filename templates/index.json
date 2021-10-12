@@ -75,38 +75,6 @@
         "full_width": true
       }
     },
-    "1631470612e7a86920": {
-      "type": "collage",
-      "blocks": {
-        "1631470612e7a86920-1": {
-          "type": "product",
-          "settings": {
-            "product": "buildmania",
-            "second_image": false,
-            "image_padding": false,
-            "secondary_background": false
-          }
-        },
-        "1631470612e7a86920-2": {
-          "type": "collection",
-          "disabled": true,
-          "settings": {
-            "collection": "",
-            "image_padding": false,
-            "color_scheme": "background-1"
-          }
-        }
-      },
-      "block_order": [
-        "1631470612e7a86920-1",
-        "1631470612e7a86920-2"
-      ],
-      "settings": {
-        "heading": "",
-        "desktop_layout": "right",
-        "mobile_layout": "collage"
-      }
-    },
     "16315524948199b120": {
       "type": "custom-liquid",
       "settings": {
@@ -142,6 +110,7 @@
         "163389868590fa2ccb-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/clips.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
@@ -176,9 +145,10 @@
         "163389877012ba5780-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/MAK05598.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "text_first"
+        "layout": "image_first"
       }
     },
     "163390421949d7e764": {
@@ -264,7 +234,6 @@
   "order": [
     "image_banner",
     "rich_text",
-    "1631470612e7a86920",
     "16315524948199b120",
     "163389868590fa2ccb",
     "163389877012ba5780",
