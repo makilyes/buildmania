@@ -155,7 +155,7 @@
         "13c23f28-1276-4473-8387-55dd0eb0a7f0": {
           "type": "review",
           "settings": {
-            "imagee": "shopify:\/\/shop_images\/7.jpg",
+            "imagee": "shopify:\/\/shop_images\/secure2.jpg",
             "name": "John Doe",
             "title": "Très bon produit",
             "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id velit maximus, porttitor enim eget, aliquet libero. In eu porttitor est, in sodales dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;<\/p>"
@@ -209,7 +209,7 @@
         "83aa9da4-31b6-4957-b001-ffdddc57b54d": {
           "type": "review",
           "settings": {
-            "imagee": "shopify:\/\/shop_images\/13.jpg",
+            "imagee": "shopify:\/\/shop_images\/secours1.jpg",
             "name": "John Doe",
             "title": "Très bon produit",
             "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id velit maximus, porttitor enim eget, aliquet libero. In eu porttitor est, in sodales dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;<\/p>"
