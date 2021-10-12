@@ -94,12 +94,65 @@
       "type": "badge-section",
       "settings": {
       }
+    },
+    "16340335265dc3cd71": {
+      "type": "caroussel-reviews-section",
+      "blocks": {
+        "6e907a8f-b10a-4506-a17a-cb1637ce4074": {
+          "type": "review",
+          "settings": {
+            "imagee": "shopify:\/\/shop_images\/2---1920h---eleve_5bb0ec62-ea7f-425f-a683-c005a75c075c.jpg",
+            "name": "John Doe",
+            "title": "Très bon produit",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id velit maximus, porttitor enim eget, aliquet libero. In eu porttitor est, in sodales dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;<\/p>"
+          }
+        },
+        "040e7121-ed84-42c7-9c4b-7fbdcc99f233": {
+          "type": "review",
+          "settings": {
+            "imagee": "shopify:\/\/shop_images\/3---1920h---eleve.jpg",
+            "name": "John Doe",
+            "title": "Très bon produit",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id velit maximus, porttitor enim eget, aliquet libero. In eu porttitor est, in sodales dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;<\/p>"
+          }
+        },
+        "c9282984-fefe-46e0-8fd3-10258693d5a1": {
+          "type": "review",
+          "settings": {
+            "imagee": "shopify:\/\/shop_images\/2---1920h---eleve.jpg",
+            "name": "John Doe",
+            "title": "Très bon produit",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id velit maximus, porttitor enim eget, aliquet libero. In eu porttitor est, in sodales dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;<\/p>"
+          }
+        },
+        "cf197411-a4a0-4d00-a92c-7e3f61fb48a1": {
+          "type": "review",
+          "settings": {
+            "imagee": "shopify:\/\/shop_images\/1---1920h---eleve.jpg",
+            "name": "John Doe",
+            "title": "Très bon produit",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id velit maximus, porttitor enim eget, aliquet libero. In eu porttitor est, in sodales dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "6e907a8f-b10a-4506-a17a-cb1637ce4074",
+        "040e7121-ed84-42c7-9c4b-7fbdcc99f233",
+        "c9282984-fefe-46e0-8fd3-10258693d5a1",
+        "cf197411-a4a0-4d00-a92c-7e3f61fb48a1"
+      ],
+      "settings": {
+        "titlereview": "+500,000 utilisateurs actifs dans le monde",
+        "titlecolor": "#000000",
+        "backgroundcolor": "#ffffff"
+      }
     }
   },
   "order": [
     "main",
     "product-recommendations",
     "16339559417a670691",
-    "1633969915f935ca57"
+    "1633969915f935ca57",
+    "16340335265dc3cd71"
   ]
 }
