@@ -77,4 +77,8 @@
         flex-direction: column;
         align-items: center;
     }
+
+    .img-sizeBuildMania {
+        width: 100%;
+    }
 }
