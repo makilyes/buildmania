@@ -1833,9 +1833,9 @@ input[type='checkbox'] {
   background-color: rgb(var(--color-background));
 }
 
-.header-wrapper--border-bottom {
-  border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.08);
-}
+/*.header-wrapper--border-bottom {*/
+/*  border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.08);*/
+/*}*/
 
 .header {
   display: grid;
@@ -2414,3 +2414,4 @@ details-disclosure > details {
   width: 90%;
   margin: 0 auto;
 }
+
