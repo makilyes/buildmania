@@ -61,27 +61,6 @@
     align-items: center;
 }
 
-@media screen and (max-width: 750px) {
-    .swiper-text {
-        /*margin-top: 100px;*/
-        /*width: 250px !important;*/
-    }
-
-    .slider-img {
-        height: 60vh;
-        width: 80vw;
-        /*border-radius: 10px;*/
-    }
-
-    .trust-badge {
-        width: 35%;
-        margin-left: 35%;
-        margin-bottom: 30px;
-    }
-
-    }
-
-
 .trust-badge {
     width: 15%;
     margin-left: 40%;
@@ -100,3 +79,32 @@
 .flex__sliders {
     display: flex;
 }
+
+@media screen and (max-width: 750px) {
+    .swiper-text {
+        /*margin-top: 100px;*/
+        /*width: 250px !important;*/
+    }
+
+    .slider-img {
+        height: 60vh;
+        width: 80vw;
+        /*border-radius: 10px;*/
+    }
+
+    .trust-badge {
+        width: 35%;
+        margin-left: 35%;
+        margin-bottom: 30px;
+    }
+
+    .review__wrapper {
+        display: flex;
+        width: 125% !important;
+        margin-right: 140px;
+
+    }
+
+    }
+
+
