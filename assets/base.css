@@ -2415,3 +2415,8 @@ details-disclosure > details {
   margin: 0 auto;
 }
 
+  .announcement-bar__message {
+  
+    backgournd-color: #f9774e;
+  
+  }
