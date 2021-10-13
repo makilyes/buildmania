@@ -10,8 +10,9 @@
     "type_header_font": "swiss_721_rounded_n7",
     "type_body_font": "swiss_721_n4",
     "favicon": "shopify:\/\/shop_images\/Capture_d_ecran_2021-09-13_a_21.27.29.png",
+    "checkout_header_image": "shopify:\/\/shop_images\/banner-accueil.jpg",
     "checkout_logo_image": "shopify:\/\/shop_images\/tesssst.png",
-    "checkout_logo_position": "center",
+    "checkout_logo_position": "left",
     "checkout_body_background_color": "#ffffff",
     "checkout_sidebar_background_color": "#f8f8f8",
     "sections": {
