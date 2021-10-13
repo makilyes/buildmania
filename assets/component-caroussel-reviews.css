@@ -36,6 +36,7 @@
 
 .swiper-text {
     width: 310px;
+    height: 78%;
     margin-right: 30px;
     z-index: 1;
     display: flex;
@@ -88,6 +89,7 @@
     .swiper-text {
         /*margin-top: 100px;*/
         /*width: 250px !important;*/
+        height: 100%;
     }
 
     .slider-img {
