@@ -2417,6 +2417,6 @@ details-disclosure > details {
 
   .announcement-bar__message {
   
-    backgournd-color: #f9774e;
+    backgournd-color: #f9774e !important;
   
   }
