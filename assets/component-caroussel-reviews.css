@@ -29,8 +29,8 @@
 }
 
 .slider-img {
-    height: 60vh;
-    width: 33vw;
+    height: 72vh;
+    width: 26vw;
     border-radius: 10px;
 }
 
@@ -92,8 +92,8 @@
 
 .review__wrapper {
     display: flex;
-    width: 43% !important;
-    margin-right: 200px;
+    width: 38% !important;
+    margin-right: 151px;
 
 }
 
