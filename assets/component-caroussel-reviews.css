@@ -72,7 +72,7 @@
 .review__wrapper {
     display: flex;
     /*width: 670px !important;*/
-    margin-right: -25px;
+    /*margin-right: -25px;*/
 
 }
 
@@ -81,7 +81,7 @@
 }
 
 .swiper-slide {
-    flex-shrink: 1 !important;
+    /*flex-shrink: 1 !important;*/
 }
 
 @media screen and (max-width: 750px) {
