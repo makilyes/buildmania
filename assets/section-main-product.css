@@ -805,3 +805,22 @@ a.product__text {
   margin: 0;
   width: 2.2rem;
 }
+
+  
+  .percentage-text__wrapper {
+  text-align: center;
+  }
+  
+  .percentage-text {
+      margin-bottom: 0;
+    padding: 10px 10px;
+    color: black;
+    border-radius: 15px;
+    font-weight: 600;
+  }
+  
+  .percentage-subtext {
+  margin-top: 0;
+    font-style: italic;
+    font-size: 14px;
+  }
