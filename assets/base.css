@@ -1807,6 +1807,7 @@ input[type='checkbox'] {
   margin: 0;
   letter-spacing: 0.1rem;
   background-color: #f9774e;
+  color: white;
 }
 
 /* section-header */
